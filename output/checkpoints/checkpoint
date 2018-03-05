@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-1800"
+all_model_checkpoint_paths: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-800"
+all_model_checkpoint_paths: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-1100"
+all_model_checkpoint_paths: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-1200"
+all_model_checkpoint_paths: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-1400"
+all_model_checkpoint_paths: "/home/chaos/wjht/personal/LSTMCNNCRFNER/output/checkpoints/model-1800"
